@@ -44,16 +44,6 @@ npm run dev
 
 MIT License - See [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Built with assistance from [Claude](https://claude.ai)
-- Inspired by countless awkward "who's playing?" moments
-- Powered by the board game community's need for better coordination
-
 ---
 
-**Live at**: [gamenight.benloe.com](https://gamenight.benloe.com) (coming soon)  
-**Portfolio**: [benloe.com](https://benloe.com)  
-**Contact**: Ben Loe ([GitHub](https://github.com/BLoe))
-
-*Building & Learning in Public* 🎲
+**Live at**: [gamenight.benloe.com](https://gamenight.benloe.com)
